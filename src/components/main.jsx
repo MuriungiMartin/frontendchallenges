@@ -1,8 +1,8 @@
 const Main = () => {
   return (
     <div className="w-full h-screen bg-neutral-900">
-      <div className="p-16">
-        <div className="w-1/5 flex flex-col justify items-center space-y-2 bg-neutral-800 rounded-lg">
+      <div className="lg:p-16 p-8 pt-24">
+        <div className="lg:w-1/5 sm:p-8 flex flex-col justify items-center space-y-2 bg-neutral-800 rounded-lg">
           <div className="py-2 px-8 pt-8">
             <img
               className="rounded-full"
