@@ -1,7 +1,7 @@
 const Main = () => {
   return (
     <div className="w-full h-auto lg:h-screen bg-neutral-900">
-      <div className="lg:p-16 pb-8 lg:pl-96 pt-24">
+      <div className="lg:p-16 pb-8 lg:pl-96 pt-24 p-8">
         <div className="lg:w-fit sm:p-8 flex flex-col justify-center items-center space-y-2 bg-neutral-800 rounded-lg">
           <div className="py-2 px-8 pt-8">
             <img
